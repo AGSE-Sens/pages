@@ -1,0 +1,1 @@
+Le code source de ce site est sous [licence APGL](https://www.gnu.org/licenses/licenses.html#AGPL). Vous pouvez donc en [télécharger le code source](https://github.com/AGSE-Sens/site_agse_sens/archive/refs/heads/main.zip).
